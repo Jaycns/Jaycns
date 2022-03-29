@@ -1,4 +1,17 @@
-### Hi there 👋
+## Hi there 👋
+
+### My name is Jude, I am a front end developer currently based in Lagos.
+
+### Technology Stacks
+```Javascript```
+```React JS```
+```CSS, SCSS, Tailwind```
+
+### Fun Fact 
+
+When I am not coding, I am watching Anime or playing chess.
+
+
 
 <!--
 **Jaycns/Jaycns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
