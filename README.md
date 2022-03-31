@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Jude, I am a front end developer currently based in Lagos.
+### My name is Jude, I am a front end developer currently based in Lagos, Nigeria.
 
 ### Technology Stacks
 ```Javascript```
