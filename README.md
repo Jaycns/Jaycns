@@ -21,10 +21,10 @@ Designing a Landing page with a TodoList component.
 How to build web application on Angular framework
  
 
-###👯 I’m looking to collaborate on 
+### 👯 I’m looking to collaborate on 
 Building a full fledged web/mobile application 
 
-###📫 How to reach me: 
+### 📫 How to reach me: 
 Twitter: @jaycn_x
 Email: jaycnjude@gmail.com
 
