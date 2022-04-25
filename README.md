@@ -18,7 +18,7 @@ When I am not coding, I am watching Anime or playing chess.
 Mastering React
 
 ### 🌱 I’m currently learning 
-How to build web application on Angular framework
+How to fetch data from an API using React
  
 
 ### 👯 I’m looking to collaborate on 
