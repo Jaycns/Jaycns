@@ -15,7 +15,7 @@
 When I am not coding, I am watching Anime or playing chess.
 
 ### 🔭 I’m currently working on
-Designing a Landing page with a TodoList component.
+Mastering React
 
 ### 🌱 I’m currently learning 
 How to build web application on Angular framework
