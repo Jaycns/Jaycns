@@ -10,11 +10,10 @@
 ```TypeScript```
 ```ChakraUi```
 ```MaterialUI```
-$$$ React
 
 ### ⚡Fun Fact 
 
-:trollface: When I am not coding, I am watching Anime or playing chess.
+:trollface: When I am not coding, I'd either be watching Anime or playing FIFA or playing Chess.
 
 ### 🔭 I’m currently working on
 Mastering React
