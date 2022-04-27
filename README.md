@@ -10,6 +10,7 @@
 ```TypeScript```
 ```ChakraUi```
 ```MaterialUI```
+$$$ React
 
 ### ⚡Fun Fact 
 
