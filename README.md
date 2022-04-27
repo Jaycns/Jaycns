@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### My name is Jude, I am a front end developer currently based in Lagos, Nigeria.
+### My name is Jude, I am a Front-end Developer currently based in Lagos, Nigeria.
 
 ### Technology Stacks
 
 ```Javascript```
 ```React JS```
-```CSS, SCSS, Tailwind```
+```CSS, SCSS, Styled Components, Tailwind```
 ```TypeScript```
 ```ChakraUi```
 ```MaterialUI```
