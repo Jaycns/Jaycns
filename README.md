@@ -3,6 +3,7 @@
 ### My name is Jude, I am a front end developer currently based in Lagos, Nigeria.
 
 ### Technology Stacks
+
 ```Javascript```
 ```React JS```
 ```CSS, SCSS, Tailwind```
@@ -12,7 +13,7 @@
 
 ### ⚡Fun Fact 
 
-When I am not coding, I am watching Anime or playing chess.
+:trollface: When I am not coding, I am watching Anime or playing chess.
 
 ### 🔭 I’m currently working on
 Mastering React
