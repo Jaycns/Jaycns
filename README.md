@@ -28,6 +28,7 @@ Building a full fledged web/mobile application
 ### 📫 How to reach me: 
 Twitter: @jaycn_x
 Email: jaycnjude@gmail.com
+website: https://jaycn-portfolio.netlify.app/
 
 <!--
 **Jaycns/Jaycns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
