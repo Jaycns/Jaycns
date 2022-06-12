@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey I'm Jaycn 👋
 
-### My name is Jude, I am a Front-end Developer currently based in Lagos, Nigeria.
+###  I am a Front-end Developer currently based in Lagos, Nigeria.
 
 ### Technology Stacks
 
@@ -19,7 +19,7 @@
 Mastering React
 
 ### 🌱 I’m currently learning 
-How to fetch data from an API using React
+React Context 
  
 
 ### 👯 I’m looking to collaborate on 
