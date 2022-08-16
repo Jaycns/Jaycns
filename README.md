@@ -6,10 +6,14 @@
 
 ```Javascript```
 ```React JS```
+```Next JS```
 ```CSS, SCSS, Styled Components, Tailwind```
 ```TypeScript```
 ```ChakraUi```
 ```MaterialUI```
+```Figma```
+```Spline, Three.js, react-three-fiber```
+```Chart.js```
 
 ### ⚡Fun Fact 
 
