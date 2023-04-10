@@ -174,11 +174,6 @@ Lots of amazing projects especially web3 projects
 <br>
 
 
-## Hey I'm Jaycn 👋
-
-###  I am a Front-end Developer currently based in Lagos, Nigeria.
-
-### Technology Stacks
 
 ```Javascript```
 ```React JS```
@@ -191,21 +186,7 @@ Lots of amazing projects especially web3 projects
 ```Spline, Three.js, react-three-fiber```
 ```Chart.js```
 
-### ⚡Fun Fact 
 
-:trollface: When I am not coding, I'd either be watching Anime or playing FIFA or playing Chess.
-
-### 🔭 I’m currently working on
-Mastering React
-
-### 🌱 I’m currently learning 
-React Context 
- 
-
-### 👯 I’m looking to collaborate on 
-Building a full fledged web/mobile application 
-
-### 📫 How to reach me: 
 
 
 <!--
