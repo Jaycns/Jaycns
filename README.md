@@ -105,7 +105,7 @@ Lots of amazing projects especially web3 projects
 <br>
 
 -**Frontend**:
-<img src='https://shields.io/category/test-results/tas/tests/:provider/:org/:repo?compact_message&failed_label=failed&passed_label=passed&skipped_label=skipped)'/>
+<img src='https://shields.io/category/test-results/tas/tests/:provider/:org/:repo?compact_message&failed_label=failed&passed_label=passed&skipped_label=skipped)' alt='test analysis'/>
 
 <!-- <div align="center">
 
