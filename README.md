@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I am Jude Okonkwo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I am Jude Okonkwo(Jaycn) </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jaycn+Jude+Okonkwo..&hearts;++;Self-taught+Front-End+Developer,;Electronics+Engineer,;Web3+Enthusiast,;Active+Learner/Researcher,;Love+gaming..<3"></a>
@@ -126,31 +126,26 @@ Lots of amazing projects especially web3 projects
 <br>
 <div align='left'>
 
-<ul list-style='none'>
-
-<li>
 <a href="https://linkedin.com/in/jaycn-jude" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Jaycn-Jude-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
+
 
 <br>
 
-<li>
+
 <a href="https://twitter.com/jaycns" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  @jaycns-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
-</li>
+
 
 <br>
 
-<li>
 <a href="mailto:okonkwojude69@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  jaycnjude-@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
+
+
 </div>
 
 <br>
