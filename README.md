@@ -35,7 +35,7 @@ Lots of amazing projects especially web3 projects
 - Personal website [link](https://jaycns.netlify.app)
 - I’m currently open for a new job opportunity, this is [my resume](https://jaycn-portfolio.netlify.app)
 - [Twitter](https://twitter.com/jaycns)
-- [current personal project]( https://jaycn-portfolio.netlify.app/)
+- Current Personal [project]( https://jaycn-portfolio.netlify.app/)
 
 
 <br><br>
