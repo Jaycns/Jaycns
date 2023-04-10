@@ -17,11 +17,26 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing chess and FIFA/NBA at spare time
-- Currently looking to participate in a web3 project
+### ⚡Fun Fact 
+
+:trollface: When I am not coding, I'd either be watching Anime or playing FIFA or playing Chess.
+
+### 🔭 I’m currently working on
+Mastering React
+
+### 🌱 I’m currently learning 
+React Context 
+ 
+
+### 👯 I’m looking to collaborate on 
+Lots of amazing projects especially web3 projects 
+
+### 📫 How to reach me:
 - Personal website [link](https://jaycns.netlify.app)
 - I’m currently open for a new job opportunity, this is [my resume](https://jaycn-portfolio.netlify.app)
+- [Twitter](https://twitter.com/jaycns)
+- [current personal project]( https://jaycn-portfolio.netlify.app/)
+
 
 <br><br>
 
@@ -85,7 +100,7 @@
 
 <div align="center">
 
-<a href="https://github.com/0xabdulkhalid/">
+<a href="https://github.com/jaycn-jude/">
   <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
@@ -185,9 +200,7 @@ React Context
 Building a full fledged web/mobile application 
 
 ### 📫 How to reach me: 
-Twitter: @jaycn_x
-Email: jaycnjude@gmail.com
-website: https://jaycn-portfolio.netlify.app/
+
 
 <!--
 **Jaycns/Jaycns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
