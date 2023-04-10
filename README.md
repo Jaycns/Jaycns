@@ -105,9 +105,8 @@ Lots of amazing projects especially web3 projects
 <br>
 
 -**Frontend**:
-<p>
-![Frontend](https://shields.io/category/test-results/tas/tests/:provider/:org/:repo?compact_message&failed_label=failed&passed_label=passed&skipped_label=skipped)
- </p>
+<img src='https://shields.io/category/test-results/tas/tests/:provider/:org/:repo?compact_message&failed_label=failed&passed_label=passed&skipped_label=skipped)'/>
+
 <!-- <div align="center">
 
 <a href="https://github.com/jaycn-jude/">
