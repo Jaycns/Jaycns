@@ -122,11 +122,11 @@ Lots of amazing projects especially web3 projects
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect...!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
-<ul>
+<ul align='center'>
 
 <li>
 <a href="https://linkedin.com/in/jaycn-jude" target="_blank">
