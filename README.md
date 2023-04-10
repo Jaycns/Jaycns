@@ -91,7 +91,8 @@ Lots of amazing projects especially web3 projects
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 <br>
 	
-	- **Tests*:
+- **Tests**:
+	
 	![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 </p>
