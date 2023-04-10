@@ -104,9 +104,10 @@ Lots of amazing projects especially web3 projects
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-
+-**Frontend**:
+<p>
 ![Frontend](https://shields.io/category/test-results/tas/tests/:provider/:org/:repo?compact_message&failed_label=failed&passed_label=passed&skipped_label=skipped)
-
+ </p>
 <!-- <div align="center">
 
 <a href="https://github.com/jaycn-jude/">
