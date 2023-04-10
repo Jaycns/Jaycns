@@ -126,7 +126,7 @@ Lots of amazing projects especially web3 projects
 <br>
 <div align='left'>
 
-<ul align='center'>
+<ul list-style='none'>
 
 <li>
 <a href="https://linkedin.com/in/jaycn-jude" target="_blank">
