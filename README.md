@@ -140,13 +140,18 @@ Lots of amazing projects especially web3 projects
 <br>
 
 
-<a href="https://twitter.com/jaycns" target="_blank">
+<a href="https://twitter.com/jaycn_x" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  @jaycns-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 
 
 <br>
-
+<a href="https://www.instagram.com/jaycn_x/" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  @jaycns-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+	
+	
+	
 <a href="mailto:okonkwojude69@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  jaycnjude-@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
