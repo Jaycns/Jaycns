@@ -147,7 +147,7 @@ Lots of amazing projects especially web3 projects
 
 <br>
 <a href="https://www.instagram.com/jaycn_x/" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  @jaycns-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram:  @jaycns-%2300acee.svg?color=red&style=for-the-badge&logo=instagram&logoColor=white" alt=intagram style="margin-bottom: 5px;"/>
 </a>
 	
 	
