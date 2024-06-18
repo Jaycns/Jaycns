@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I am Jude Okonkwo a.k.a Jaycn </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jaycn+Jude+Okonkwo..&hearts;++;React+Front-End+Developer,;Figma+UI/UX+Designer,;UI+Developer,;Electronics+Engineer,;Web3+Enthusiast,;Active+Learner/Researcher,;Chess+Player,;Gamer...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jaycn+Jude+Okonkwo..&hearts;++;React+Front-End+Developer,;Data Engineer,;Data Analyst,;Figma+UI/UX+Designer,;UI+Developer,;Electronics+Engineer,;Web3+Enthusiast,;Active+Learner/Researcher,;Chess+Player,;Gamer...<3"></a>
 </p>
 
 
@@ -22,20 +22,20 @@
 :trollface: When I am not coding, I'd either be watching Anime or playing FIFA or playing Chess.
 
 ### 🔭 I’m currently working on
-Mastering React
+Building optimized data pipelines
 
 ### 🌱 I’m currently learning 
-React Context 
+Better Data visualization tools
  
 
 ### 👯 I’m looking to collaborate on 
-Lots of amazing projects especially web3 projects 
+Customer Segmentation, User Demographics and Customer Behavioural Analysis
 
 ### 📫 How to reach me:
 - Personal website [link](https://jaycns.netlify.app)
-- I’m currently open for a new job opportunity, this is [my resume](https://jaycn-portfolio.netlify.app)
+- I’m currently open for a new job opportunity, this is [my resume](https://jaycns.netlify.app)
 - [Twitter](https://twitter.com/jaycns)
-- Current Personal [project]( https://jaycn-portfolio.netlify.app/)
+- Current Personal [project](https://jaycns.netlify.app)
 
 
 <br><br>
